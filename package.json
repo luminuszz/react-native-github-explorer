@@ -5,7 +5,8 @@
     "ios": "react-native run-ios",
     "web": "expo start --web",
     "start": "react-native start",
-    "test": "jest"
+    "test": "jest",
+    "expo": "expo start"
   },
   "dependencies": {
     "@expo-google-fonts/roboto": "^0.1.0",
@@ -39,6 +40,7 @@
     "axios-mock-adapter": "^1.19.0",
     "babel-preset-expo": "~8.3.0",
     "jest-expo": "~41.0.0",
+    "prettier": "^2.4.1",
     "typescript": "~4.0.0"
   },
   "private": true
